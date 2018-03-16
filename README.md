@@ -1,5 +1,9 @@
 # STM32F103RB-NUCLEO-SPI-SLAVE-ESP8266-12E-MASTER-COMMUNATION-SPL
 stm32F103rb ve esp8266 12e Wifi Modlünün SPI üzerinden haberleşmesi çalışmasıdır (standard peripheral library)
+> **NOTE:**
+This example has major misspellings and coding errors.
+I encourage you to review and use [these codes](https://github.com/zafersn/SPLibrary-STM32F103-SPI-FULLDUBLEX-MASTER-SLAVE_COMMUNICATION).
+<br>or this link: https://github.com/zafersn/SPLibrary-STM32F103-SPI-FULLDUBLEX-MASTER-SLAVE_COMMUNICATION
 
 # Bu örnek tamamen test amaçlı oluşturulmuştur.
 ## Proje IAR Embedded Workbench IDE 8.11.2 üzerinde oluşturulmuştur.
